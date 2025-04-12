@@ -1,0 +1,26 @@
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.exe
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.deps.json
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.runtimeconfig.json
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.dll
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.pdb
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.dll
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.pdb
+C:\Users\ASUS\source\repos\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.genruntimeconfig.cache
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.exe
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.deps.json
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.runtimeconfig.json
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.runtimeconfig.dev.json
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.dll
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\bin\Debug\netcoreapp3.1\compilerTest1.pdb
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.csprojAssemblyReference.cache
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.csproj.CoreCompileInputs.cache
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.AssemblyInfoInputs.cache
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.AssemblyInfo.cs
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.dll
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.pdb
+D:\bre be git\proje o tamrina\CompilerProject-LL1-hediye-shariaty\compilerTest1\compilerTest1\obj\Debug\netcoreapp3.1\compilerTest1.genruntimeconfig.cache
